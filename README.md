@@ -57,3 +57,7 @@ To run the project in your local environment, follow these steps:
 4. Run `Main.java` inside `src/com/taskflow/Main.java` to start the application.
 * Note: You DO NOT need to install MySQL or any database server. The application will automatically generate a `taskflow.db` file in the root folder upon first run.
 * Alternatively: Just double-click the provided `TaskFlow.jar` file in the Releases/Exported folder to run the app instantly.
+
+# 🖼 Views
+<img width="913" height="602" alt="image" src="https://github.com/user-attachments/assets/005ea70d-b774-45b6-bfcd-4ba1254a18cd" />
+
